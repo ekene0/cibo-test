@@ -1,0 +1,239 @@
+body {
+  font-family: sofia pro;
+}
+
+.btn{
+  font-size: 16px;
+  color: #ffffff;
+  padding: 10px 25px;
+  margin-top: 20px;
+  margin-right: 30px;
+
+}
+
+button:active {
+  border-style: outset;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.call-to-action {
+  padding: 70px 0 35px;
+  font-family: 'futura';
+  font-weight: 500;
+  size: 3.5rem;
+  line-height: 1.5;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: sofia pro;
+  font-size: 1rem;
+  font-weight: 400;
+  margin-top: 15px;
+}
+
+/* Download Button */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/*title-image*/
+.title-image {
+  width: 90%;
+  height: 95%;
+  text-align: center;
+  margin-left: 100px;
+}
+
+#projects{
+  padding: 0 15%;
+}
+
+/* Features Section */
+#features {
+  padding: 7% 15%;
+  background-color: #000000;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+  font-weight: bold;
+}
+
+.feature-img {
+  height: 150px;
+  width: 150px;
+  margin-bottom: 30px;
+  border-radius: 100%;
+}
+
+.feature-hd {
+  font-family: sofia pro;
+  font-family: bold;
+  color: #A0A0A0;
+}
+
+.feature-p {
+  font-family: sofia pro;
+  font-family: bold;
+  color: #ffffff;
+}
+
+/* Testimonial Section */
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #D3D2D2;
+}
+
+.testimonial-hd {
+  font-family: 'futura';
+  font-weight: bold;
+  size: 3.5rem;
+  line-height: 1.5;
+  color: #000000;
+}
+
+.testimonial-img {
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+  /*border-radius: 100%;*/
+}
+
+.carousel-item {
+  padding: 0 15%;
+}
+
+#press {
+  background-color: #D3D2D2;
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 0;
+}
+
+.press-img {
+  width: 15%;
+  margin: 0 20px 50px;
+}
+
+#pricing {
+  padding: 7% 15%;
+  background-color: #000000;
+}
+
+.project-img{
+  width: 420px;
+  height: 270px;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.card-box {
+  border-radius: 2%;
+  background-color: white;
+  margin: 40px;
+}
+
+.card-content {
+  text-align: center;
+}
+
+.card-title {
+  font-family: futura;
+  font-weight: bold;
+  color: #ffffff;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.card-title-2 {
+  font-family: futura;
+  font-weight: bold;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 20px;
+}
+
+.card-text {
+  font-family: futura;
+  font-weight: 300;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 20px;
+}
+
+.card-button {
+  padding: 5px 70px;
+  font-size: 20px;
+  border-width: medium;
+}
+
+.pricing-header {
+  font-family: futura;
+  font-weight: bolder;
+  color: #ffffff;
+  text-align: center;
+}
+
+.pricing-header-2 {
+  font-family: futura;
+  font-weight: 400;
+  color: #A0A0A0;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+#cta {
+  padding: 7% 15%;
+  background-color: #7C7C7C;
+  text-align: center;
+}
+
+#footer {
+  padding: 7% 15%;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.footer-text {
+  font-family: futura;
+  font-size: 16px;
+  color: #A0A0A0;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+.chow-card {
+  height: 500px;
+  width: 250px;
+  border-radius: 2%;
+}
+
+.col-lg-4 {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 33.333333%;
+  flex: 0 0 33.333333%;
+  max-width: 28%;
+}
+
+footer{
+    padding: 7% 15%;
+    background-color: #000000;
+}
